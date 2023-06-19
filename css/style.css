@@ -1,0 +1,36 @@
+body {
+    background-color: aqua;
+}
+
+.cn-1 {
+    background-color: chartreuse;
+}
+
+#header {
+    height: 15vh;
+}
+
+#main {
+    height: 70vh;
+}
+
+#footer {
+    height: 15vh;
+}
+
+.rw-1 {
+    background-color: red;
+    height: 40vh;
+}
+
+.cl-1 {
+    background-color: rgb(255, 47, 224);
+}
+
+.cl-2 {
+    background-color: rgb(30, 47, 235);
+}
+
+.cl-3 {
+    background-color: rgb(255, 47, 196);
+}
